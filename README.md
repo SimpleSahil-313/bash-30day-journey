@@ -33,12 +33,3 @@ Bash is used everywhere:
 - Red Team → enumeration, payload execution  
 - DevOps → automation, deployments  
 
-If you can't automate, you're wasting time.
-
----
-
-## Notes
-
-This is not about writing perfect scripts.
-
-It’s about getting better by building consistently.
